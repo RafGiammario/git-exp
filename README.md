@@ -2,4 +2,4 @@
 
 ## Git experience in lab
 
-Qui le modifiche fatte alla repository per imparare a usare git!
+This repository is about learning Git!
